@@ -6,6 +6,7 @@ const demo = () => {
     return (
         <div>
             my name is {name} 
+            my name is khan
         </div>
     )
 }
